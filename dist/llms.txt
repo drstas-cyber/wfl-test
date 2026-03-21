@@ -1,0 +1,13 @@
+## Pages
+- [About Dr. Tej Mudigonda, MD | Wellness Services](/drtej): Learn about Dr. Tej Mudigonda, a double board-certified physician specializing in wellness, IV therapy, and regenerative medicine.
+- [About Us | Wellness For Love](/about): Learn about Wellness For Love — premium concierge mobile IV therapy delivered by licensed RNs under the medical direction of Dr. Tej Mudigonda, MD. Serving LA, OC & Riverside County.
+- [Appointment Confirmed - Dr. Tej Wellness](/appointmentconfirmed): Your appointment is confirmed. View next steps for your wellness session with Dr. Tej
+- [Business Partnerships | Wellness For Love](/business): Partner with Wellness For Love to bring premium physician-supervised, RN-administered mobile IV therapy to your business, gym, hotel, or event.
+- [Business Partnerships | Wellness For Love](/businesspartnership): Partner with Wellness For Love to bring premium physician-supervised, RN-administered mobile IV therapy to your business, gym, hotel, or event.
+- [My Membership - Dr. Tej Wellness](/mymembership): Manage your wellness subscription and view your current plan details.
+- [Order Confirmation - Dr. Tej Wellness](/confirmation): Your wellness order has been received. We are processing your request.
+- [Privacy Policy | Wellness For Love](/privacypolicy): Read the Wellness For Love privacy policy regarding your personal and medical information.
+- [Sign In - Wellness For Love](/login): Sign in to your Wellness For Love account.
+- [Sign Up - Wellness For Love](/signup): Create your Wellness For Love account to book appointments and manage your wellness journey.
+- [Terms of Service | Wellness For Love](/termsofservice): Review the terms and conditions for using Wellness For Love
+- [Wellness Memberships - Dr. Tej](/membership): Join our wellness membership program for exclusive benefits, priority booking, and consistent care.
