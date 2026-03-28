@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://wellnessforlove.com/sitemap-index.xml
 Sitemap: https://wellnessforlove.com/sitemap.xml
